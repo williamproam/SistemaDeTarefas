@@ -8,7 +8,7 @@ namespace SistemaDeTarefas.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "testee"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "zooooooo"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
